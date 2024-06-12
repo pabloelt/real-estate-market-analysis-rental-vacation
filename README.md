@@ -30,5 +30,5 @@
 
 ## Instructions
 
-<span> Lorem Ipsum ha sido el texto. </span> 
+<mark>Lorem Ipsum ha sido el texto.</mark>
 
