@@ -30,5 +30,7 @@
 
 ## Instructions
 
-<mark style="background:#FFFF00">Lorem Ipsum ha sido el texto.</mark>
+<mark>Lorem Ipsum ha sido el texto.</mark>
+
+<span style="color:blue">some *This is Blue italic.* text</span>
 
