@@ -30,9 +30,6 @@
 
 ## Instructions
 
-<mark>Lorem Ipsum ha sido el texto.</mark>
-
-<span style="color:blue">some *This is Blue italic.* text</span>
-
-$${\color{red}Red}$$
+* Unzip airbnb.rar under 'Datos' folder.
+* Remember to update the <mark>project_path</mark> to the path where you have replicated the project.
 
