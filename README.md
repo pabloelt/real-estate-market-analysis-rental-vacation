@@ -12,7 +12,7 @@
 
 ## Introduction
 
- * [See a more detail explanation here](#https://pabloelt.github.io/project/project1/)
+ * [See a more detail explanation here](https://pabloelt.github.io/project/project1/)
 ## Objectives
 
 ## Project results
