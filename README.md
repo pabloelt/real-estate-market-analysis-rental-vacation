@@ -30,5 +30,5 @@
 
 ## Instructions
 
-<span style="background-color: #FFFF00">Lorem Ipsum ha sido el texto.</span> 
+<span> Lorem Ipsum ha sido el texto. </span> 
 
