@@ -21,12 +21,12 @@
 * 📁 Datos: Project datasets.
   * 📁 Imagenes: Contains project images.
 * 📁 Notebooks:
-  * *01_Diseño del proyecto.ipynb*: Notebook compiling the initial design of the project.
-  * *02_Analisis de ficheros y preparacion del caso.ipynb*: Notebook analyzing the main data and how to obtain those.
-  * *03_Creacion del Datamart Analitico.ipynb*: Notebook creating analytic data mart (loading and unifying data, applying data quality processes, and so on).
-  * *04_Preparacion de datos.ipynb*: Notebook compilling feature engineering processes.
-  * *05_Analisis e Insights.ipynb*: Notebook used for the execution of the exploratory data analysis, which collects the business insights and the recommended actionable initiatives.
-  * *06_Comunicacion de resultados.ipynb*: Brief executive report for the communication of results using McKinsey's Exhibits methodology.
+  * <mark>01_Diseño del proyecto.ipynb</mark>: Notebook compiling the initial design of the project.
+  * <mark>02_Analisis de ficheros y preparacion del caso.ipynb</mark>: Notebook analyzing the main data and how to obtain those.
+  * <mark>03_Creacion del Datamart Analitico.ipynb</mark>: Notebook creating analytic data mart (loading and unifying data, applying data quality processes, and so on).
+  * <mark>04_Preparacion de datos.ipynb</mark>: Notebook compilling feature engineering processes.
+  * <mark>05_Analisis e Insights.ipynb</mark>: Notebook used for the execution of the exploratory data analysis, which collects the business insights and the recommended actionable initiatives.
+  * <mark>06_Comunicacion de resultados.ipynb</mark>: Brief executive report for the communication of results using McKinsey's Exhibits methodology.
 
 ## Instructions
 
