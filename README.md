@@ -21,7 +21,7 @@
 * 📁 Datos: Project datasets.
   * 📁 Imagenes: Contains project images.
 * 📁 Notebooks:
-  * ~01_Diseño del proyecto.ipynb~: Notebook compiling the initial design of the project.
+  * _01_Diseño del proyecto.ipynb_: Notebook compiling the initial design of the project.
   * 02_Analisis de ficheros y preparacion del caso.ipynb:
   * 03_Creacion del Datamart Analitico.ipynb: Notebook creating analitic datamart (loading and unifying data, applying data quality processes, ...).
   * 04_Preparacion de datos.ipynb: Notebook compilling feature engineering processes.
