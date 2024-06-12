@@ -30,5 +30,5 @@
 
 ## Instructions
 
-<span style="background:#FFFF00">Lorem Ipsum ha sido el texto.</span> 
+<span style="background:#aaaaaa">Lorem Ipsum ha sido el texto.</span> 
 
