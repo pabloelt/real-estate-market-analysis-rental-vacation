@@ -12,10 +12,19 @@
 
 ## Introduction
 
+In this project, we analyze potential real estate investments in the vacation rental sector in Madrid (Spain). To that end, we are using publicly available data from the market leader, Airbnb, and we will identify the properties with the greatest commercial potential for vacation rentals.
+
  * [See a more detailed explanation here](https://pabloelt.github.io/project/project1/)
+
 ## Objectives
 
+The main objective is to identify the property profiles that maximize commercial potential in the vacation rental market. This will guide the valuation team on where to start looking for such opportunities and highlight the key neighborhoods and geographical areas, which are most promising to focus on. This analysis is primarily conducted in terms of rental prices, occupancy levels, and purchase prices. 
+
 ## Project results
+
+The main results obtained from this Discovery Project are summarized below:
+
+**1. Ten neighborhoods with a high investment potential have been identified.**
 
 ## Project structure
 
