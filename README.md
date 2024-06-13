@@ -24,7 +24,15 @@ The main objective is to identify the property profiles that maximize commercial
 
 The main results obtained from this Discovery Project are summarized below:
 
-**1. Ten neighborhoods with a high investment potential have been identified.**
+**1. Ten neighborhoods with a high investment potential have been identified**
+* They can be segmented into 4 groups depending on the type, quality, and property location.
+* These 4 groups, which have been identified, are the following:
+  * Low cost Investment: Simancas, Ambroz, Marroquina, San Juan Bautista.
+  * Medium cost investment: El Plantio, Valdemarín, Valdefuentes.
+  * Medium-high cost investment: Jerónimos, Fuentela reina.
+  * High cost investment: Recoletos.
+**2. It is recommended to search for two-bedrooms properties that can accommodate 4 guests**
+
 
 ## Project structure
 
