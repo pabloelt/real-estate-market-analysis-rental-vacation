@@ -27,12 +27,22 @@ The main results obtained from this Discovery Project are summarized below:
 **1. Ten neighborhoods with a high investment potential have been identified**
 * They can be segmented into 4 groups depending on the type, quality, and property location.
 * These 4 groups, which have been identified, are the following:
-  * Low cost Investment: Simancas, Ambroz, Marroquina, San Juan Bautista.
-  * Medium cost investment: El Plantio, Valdemarín, Valdefuentes.
-  * Medium-high cost investment: Jerónimos, Fuentela reina.
-  * High cost investment: Recoletos.
-**2. It is recommended to search for two-bedrooms properties that can accommodate 4 guests**
+  * *Low cost Investment*: Simancas, Ambroz, Marroquina, San Juan Bautista.
+  * *Medium cost investment*: El Plantio, Valdemarín, Valdefuentes.
+  * *Medium-high cost investment*: Jerónimos, Fuentela reina.
+  * *High cost investment*: Recoletos.
 
+**2. It is recommended to search for two-bedroom properties that can accommodate 4 guests**
+* The number of guests that maximize the rental price while minimizing the property's purchase price is 4.
+
+**3. It is recommended to search for properties in one of the identified neighborhoods that are not necessarily close to points of interest**
+* These properties are expected to have a lower purchase price.
+* It seems that proximity to points of interest does not have a particular impact on rental prices.
+  
+**4. A new business model based on rentals for specific moments of high sporting interest should be explored**
+* It is advisable to look for opportunities in the San Blas neighborhood.
+* These properties present a particularly high cost-income ratio per night.
+* There are still many rentals that are not exploiting this potential.
 
 ## Project structure
 
