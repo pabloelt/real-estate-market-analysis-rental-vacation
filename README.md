@@ -9,7 +9,8 @@
 * [Project structure](#project-structure)
 * [Instructions](#instructions)
 
-
+<div align="justify">
+ 
 ## Introduction
 
 The client for this project is a real estate company that invests in large cities by purchasing properties to rent out as vacation apartments. The managers have decided to invest in Madrid and are interested in analyzing publicly available data from the sector leader, Airbnb, to identify the types of properties with the greatest commercial potential for vacation rentals.
@@ -65,3 +66,4 @@ The main results obtained from this Discovery Project are summarized below:
 * Unzip airbnb.rar under 'Datos' folder.
 * Remember to update the <mark>project_path</mark> to the path where you have replicated the project.
 
+</div>
