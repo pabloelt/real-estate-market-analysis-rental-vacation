@@ -17,7 +17,7 @@ The client for this project is a real estate company that invests in large citie
 
 As the main deliverable, the management expects to receive a detailed typology of properties that the valuation team should target among the existing opportunities in the city, as well as the primary neighborhoods or geographic areas to focus on.
 
- * [See a more detailed explanation here](https://pabloelt.github.io/project/project1/)
+ * [See a technical explanation of the project here](https://pabloelt.github.io/project/project1/)
 
 ## Objectives
 
